@@ -67,19 +67,6 @@ Dataset used: [UCI Wine Quality - Red Wine](https://archive.ics.uci.edu/ml/machi
 
 ✅ The **Stacking Classifier** outperformed all base models and was selected for deployment.
 
-🧩 Requirements
 
-Install dependencies with:
-pip install -r 
-
-requirements.txt :
-
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-xgboost
-joblib
 
 
